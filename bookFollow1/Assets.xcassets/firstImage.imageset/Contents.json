@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "vestrahorn-mountains-sunrise-stokksnes-iceland 1.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "vestrahorn-mountains-sunrise-stokksnes-iceland.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "vestrahorn-mountains-sunrise-stokksnes-iceland 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
